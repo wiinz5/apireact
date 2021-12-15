@@ -1,0 +1,101 @@
+C:\Users\ACER\Downloads\ReactJsCoreApi-main\WebAPI\WebAPI\bin\Debug\netcoreapp5.0\appsettings.Development.json
+C:\Users\ACER\Downloads\ReactJsCoreApi-main\WebAPI\WebAPI\bin\Debug\netcoreapp5.0\appsettings.json
+C:\Users\ACER\Downloads\ReactJsCoreApi-main\WebAPI\WebAPI\bin\Debug\netcoreapp5.0\WebAPI.exe
+C:\Users\ACER\Downloads\ReactJsCoreApi-main\WebAPI\WebAPI\bin\Debug\netcoreapp5.0\WebAPI.deps.json
+C:\Users\ACER\Downloads\ReactJsCoreApi-main\WebAPI\WebAPI\bin\Debug\netcoreapp5.0\WebAPI.runtimeconfig.json
+C:\Users\ACER\Downloads\ReactJsCoreApi-main\WebAPI\WebAPI\bin\Debug\netcoreapp5.0\WebAPI.runtimeconfig.dev.json
+C:\Users\ACER\Downloads\ReactJsCoreApi-main\WebAPI\WebAPI\bin\Debug\netcoreapp5.0\WebAPI.dll
+C:\Users\ACER\Downloads\ReactJsCoreApi-main\WebAPI\WebAPI\bin\Debug\netcoreapp5.0\ref\WebAPI.dll
+C:\Users\ACER\Downloads\ReactJsCoreApi-main\WebAPI\WebAPI\bin\Debug\netcoreapp5.0\WebAPI.pdb
+C:\Users\ACER\Downloads\ReactJsCoreApi-main\WebAPI\WebAPI\bin\Debug\netcoreapp5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\ACER\Downloads\ReactJsCoreApi-main\WebAPI\WebAPI\bin\Debug\netcoreapp5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\ACER\Downloads\ReactJsCoreApi-main\WebAPI\WebAPI\bin\Debug\netcoreapp5.0\Newtonsoft.Json.dll
+C:\Users\ACER\Downloads\ReactJsCoreApi-main\WebAPI\WebAPI\bin\Debug\netcoreapp5.0\Newtonsoft.Json.Bson.dll
+C:\Users\ACER\Downloads\ReactJsCoreApi-main\WebAPI\WebAPI\bin\Debug\netcoreapp5.0\System.Data.SqlClient.dll
+C:\Users\ACER\Downloads\ReactJsCoreApi-main\WebAPI\WebAPI\bin\Debug\netcoreapp5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\ACER\Downloads\ReactJsCoreApi-main\WebAPI\WebAPI\bin\Debug\netcoreapp5.0\runtimes\win-x64\native\sni.dll
+C:\Users\ACER\Downloads\ReactJsCoreApi-main\WebAPI\WebAPI\bin\Debug\netcoreapp5.0\runtimes\win-x86\native\sni.dll
+C:\Users\ACER\Downloads\ReactJsCoreApi-main\WebAPI\WebAPI\bin\Debug\netcoreapp5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ACER\Downloads\ReactJsCoreApi-main\WebAPI\WebAPI\bin\Debug\netcoreapp5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ACER\Downloads\ReactJsCoreApi-main\WebAPI\WebAPI\obj\Debug\netcoreapp5.0\WebAPI.csprojAssemblyReference.cache
+C:\Users\ACER\Downloads\ReactJsCoreApi-main\WebAPI\WebAPI\obj\Debug\netcoreapp5.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Downloads\ReactJsCoreApi-main\WebAPI\WebAPI\obj\Debug\netcoreapp5.0\WebAPI.AssemblyInfoInputs.cache
+C:\Users\ACER\Downloads\ReactJsCoreApi-main\WebAPI\WebAPI\obj\Debug\netcoreapp5.0\WebAPI.AssemblyInfo.cs
+C:\Users\ACER\Downloads\ReactJsCoreApi-main\WebAPI\WebAPI\obj\Debug\netcoreapp5.0\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Downloads\ReactJsCoreApi-main\WebAPI\WebAPI\obj\Debug\netcoreapp5.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ACER\Downloads\ReactJsCoreApi-main\WebAPI\WebAPI\obj\Debug\netcoreapp5.0\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
+C:\Users\ACER\Downloads\ReactJsCoreApi-main\WebAPI\WebAPI\obj\Debug\netcoreapp5.0\staticwebassets\WebAPI.StaticWebAssets.xml
+C:\Users\ACER\Downloads\ReactJsCoreApi-main\WebAPI\WebAPI\obj\Debug\netcoreapp5.0\scopedcss\bundle\WebAPI.styles.css
+C:\Users\ACER\Downloads\ReactJsCoreApi-main\WebAPI\WebAPI\obj\Debug\netcoreapp5.0\WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\ACER\Downloads\ReactJsCoreApi-main\WebAPI\WebAPI\obj\Debug\netcoreapp5.0\WebAPI.csproj.CopyComplete
+C:\Users\ACER\Downloads\ReactJsCoreApi-main\WebAPI\WebAPI\obj\Debug\netcoreapp5.0\WebAPI.dll
+C:\Users\ACER\Downloads\ReactJsCoreApi-main\WebAPI\WebAPI\obj\Debug\netcoreapp5.0\ref\WebAPI.dll
+C:\Users\ACER\Downloads\ReactJsCoreApi-main\WebAPI\WebAPI\obj\Debug\netcoreapp5.0\WebAPI.pdb
+C:\Users\ACER\Downloads\ReactJsCoreApi-main\WebAPI\WebAPI\obj\Debug\netcoreapp5.0\WebAPI.genruntimeconfig.cache
+C:\Users\ACER\OneDrive\Desktop\Final Project\ReactJsCoreApi\WebAPI\WebAPI\bin\Debug\netcoreapp5.0\appsettings.Development.json
+C:\Users\ACER\OneDrive\Desktop\Final Project\ReactJsCoreApi\WebAPI\WebAPI\bin\Debug\netcoreapp5.0\appsettings.json
+C:\Users\ACER\OneDrive\Desktop\Final Project\ReactJsCoreApi\WebAPI\WebAPI\bin\Debug\netcoreapp5.0\WebAPI.exe
+C:\Users\ACER\OneDrive\Desktop\Final Project\ReactJsCoreApi\WebAPI\WebAPI\bin\Debug\netcoreapp5.0\WebAPI.deps.json
+C:\Users\ACER\OneDrive\Desktop\Final Project\ReactJsCoreApi\WebAPI\WebAPI\bin\Debug\netcoreapp5.0\WebAPI.runtimeconfig.json
+C:\Users\ACER\OneDrive\Desktop\Final Project\ReactJsCoreApi\WebAPI\WebAPI\bin\Debug\netcoreapp5.0\WebAPI.runtimeconfig.dev.json
+C:\Users\ACER\OneDrive\Desktop\Final Project\ReactJsCoreApi\WebAPI\WebAPI\bin\Debug\netcoreapp5.0\WebAPI.dll
+C:\Users\ACER\OneDrive\Desktop\Final Project\ReactJsCoreApi\WebAPI\WebAPI\bin\Debug\netcoreapp5.0\ref\WebAPI.dll
+C:\Users\ACER\OneDrive\Desktop\Final Project\ReactJsCoreApi\WebAPI\WebAPI\bin\Debug\netcoreapp5.0\WebAPI.pdb
+C:\Users\ACER\OneDrive\Desktop\Final Project\ReactJsCoreApi\WebAPI\WebAPI\bin\Debug\netcoreapp5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\ACER\OneDrive\Desktop\Final Project\ReactJsCoreApi\WebAPI\WebAPI\bin\Debug\netcoreapp5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\ACER\OneDrive\Desktop\Final Project\ReactJsCoreApi\WebAPI\WebAPI\bin\Debug\netcoreapp5.0\Newtonsoft.Json.dll
+C:\Users\ACER\OneDrive\Desktop\Final Project\ReactJsCoreApi\WebAPI\WebAPI\bin\Debug\netcoreapp5.0\Newtonsoft.Json.Bson.dll
+C:\Users\ACER\OneDrive\Desktop\Final Project\ReactJsCoreApi\WebAPI\WebAPI\bin\Debug\netcoreapp5.0\System.Data.SqlClient.dll
+C:\Users\ACER\OneDrive\Desktop\Final Project\ReactJsCoreApi\WebAPI\WebAPI\bin\Debug\netcoreapp5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\ACER\OneDrive\Desktop\Final Project\ReactJsCoreApi\WebAPI\WebAPI\bin\Debug\netcoreapp5.0\runtimes\win-x64\native\sni.dll
+C:\Users\ACER\OneDrive\Desktop\Final Project\ReactJsCoreApi\WebAPI\WebAPI\bin\Debug\netcoreapp5.0\runtimes\win-x86\native\sni.dll
+C:\Users\ACER\OneDrive\Desktop\Final Project\ReactJsCoreApi\WebAPI\WebAPI\bin\Debug\netcoreapp5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ACER\OneDrive\Desktop\Final Project\ReactJsCoreApi\WebAPI\WebAPI\bin\Debug\netcoreapp5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ACER\OneDrive\Desktop\Final Project\ReactJsCoreApi\WebAPI\WebAPI\obj\Debug\netcoreapp5.0\WebAPI.csprojAssemblyReference.cache
+C:\Users\ACER\OneDrive\Desktop\Final Project\ReactJsCoreApi\WebAPI\WebAPI\obj\Debug\netcoreapp5.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive\Desktop\Final Project\ReactJsCoreApi\WebAPI\WebAPI\obj\Debug\netcoreapp5.0\WebAPI.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive\Desktop\Final Project\ReactJsCoreApi\WebAPI\WebAPI\obj\Debug\netcoreapp5.0\WebAPI.AssemblyInfo.cs
+C:\Users\ACER\OneDrive\Desktop\Final Project\ReactJsCoreApi\WebAPI\WebAPI\obj\Debug\netcoreapp5.0\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\Final Project\ReactJsCoreApi\WebAPI\WebAPI\obj\Debug\netcoreapp5.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ACER\OneDrive\Desktop\Final Project\ReactJsCoreApi\WebAPI\WebAPI\obj\Debug\netcoreapp5.0\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
+C:\Users\ACER\OneDrive\Desktop\Final Project\ReactJsCoreApi\WebAPI\WebAPI\obj\Debug\netcoreapp5.0\staticwebassets\WebAPI.StaticWebAssets.xml
+C:\Users\ACER\OneDrive\Desktop\Final Project\ReactJsCoreApi\WebAPI\WebAPI\obj\Debug\netcoreapp5.0\scopedcss\bundle\WebAPI.styles.css
+C:\Users\ACER\OneDrive\Desktop\Final Project\ReactJsCoreApi\WebAPI\WebAPI\obj\Debug\netcoreapp5.0\WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\ACER\OneDrive\Desktop\Final Project\ReactJsCoreApi\WebAPI\WebAPI\obj\Debug\netcoreapp5.0\WebAPI.csproj.CopyComplete
+C:\Users\ACER\OneDrive\Desktop\Final Project\ReactJsCoreApi\WebAPI\WebAPI\obj\Debug\netcoreapp5.0\WebAPI.dll
+C:\Users\ACER\OneDrive\Desktop\Final Project\ReactJsCoreApi\WebAPI\WebAPI\obj\Debug\netcoreapp5.0\ref\WebAPI.dll
+C:\Users\ACER\OneDrive\Desktop\Final Project\ReactJsCoreApi\WebAPI\WebAPI\obj\Debug\netcoreapp5.0\WebAPI.pdb
+C:\Users\ACER\OneDrive\Desktop\Final Project\ReactJsCoreApi\WebAPI\WebAPI\obj\Debug\netcoreapp5.0\WebAPI.genruntimeconfig.cache
+D:\Final Project\ReactJsCoreApi\WebAPI\WebAPI\bin\Debug\netcoreapp5.0\appsettings.Development.json
+D:\Final Project\ReactJsCoreApi\WebAPI\WebAPI\bin\Debug\netcoreapp5.0\appsettings.json
+D:\Final Project\ReactJsCoreApi\WebAPI\WebAPI\bin\Debug\netcoreapp5.0\WebAPI.exe
+D:\Final Project\ReactJsCoreApi\WebAPI\WebAPI\bin\Debug\netcoreapp5.0\WebAPI.deps.json
+D:\Final Project\ReactJsCoreApi\WebAPI\WebAPI\bin\Debug\netcoreapp5.0\WebAPI.runtimeconfig.json
+D:\Final Project\ReactJsCoreApi\WebAPI\WebAPI\bin\Debug\netcoreapp5.0\WebAPI.runtimeconfig.dev.json
+D:\Final Project\ReactJsCoreApi\WebAPI\WebAPI\bin\Debug\netcoreapp5.0\WebAPI.dll
+D:\Final Project\ReactJsCoreApi\WebAPI\WebAPI\bin\Debug\netcoreapp5.0\ref\WebAPI.dll
+D:\Final Project\ReactJsCoreApi\WebAPI\WebAPI\bin\Debug\netcoreapp5.0\WebAPI.pdb
+D:\Final Project\ReactJsCoreApi\WebAPI\WebAPI\bin\Debug\netcoreapp5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Final Project\ReactJsCoreApi\WebAPI\WebAPI\bin\Debug\netcoreapp5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Final Project\ReactJsCoreApi\WebAPI\WebAPI\bin\Debug\netcoreapp5.0\Newtonsoft.Json.dll
+D:\Final Project\ReactJsCoreApi\WebAPI\WebAPI\bin\Debug\netcoreapp5.0\Newtonsoft.Json.Bson.dll
+D:\Final Project\ReactJsCoreApi\WebAPI\WebAPI\bin\Debug\netcoreapp5.0\System.Data.SqlClient.dll
+D:\Final Project\ReactJsCoreApi\WebAPI\WebAPI\bin\Debug\netcoreapp5.0\runtimes\win-arm64\native\sni.dll
+D:\Final Project\ReactJsCoreApi\WebAPI\WebAPI\bin\Debug\netcoreapp5.0\runtimes\win-x64\native\sni.dll
+D:\Final Project\ReactJsCoreApi\WebAPI\WebAPI\bin\Debug\netcoreapp5.0\runtimes\win-x86\native\sni.dll
+D:\Final Project\ReactJsCoreApi\WebAPI\WebAPI\bin\Debug\netcoreapp5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Final Project\ReactJsCoreApi\WebAPI\WebAPI\bin\Debug\netcoreapp5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Final Project\ReactJsCoreApi\WebAPI\WebAPI\obj\Debug\netcoreapp5.0\WebAPI.csproj.AssemblyReference.cache
+D:\Final Project\ReactJsCoreApi\WebAPI\WebAPI\obj\Debug\netcoreapp5.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Final Project\ReactJsCoreApi\WebAPI\WebAPI\obj\Debug\netcoreapp5.0\WebAPI.AssemblyInfoInputs.cache
+D:\Final Project\ReactJsCoreApi\WebAPI\WebAPI\obj\Debug\netcoreapp5.0\WebAPI.AssemblyInfo.cs
+D:\Final Project\ReactJsCoreApi\WebAPI\WebAPI\obj\Debug\netcoreapp5.0\WebAPI.csproj.CoreCompileInputs.cache
+D:\Final Project\ReactJsCoreApi\WebAPI\WebAPI\obj\Debug\netcoreapp5.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Final Project\ReactJsCoreApi\WebAPI\WebAPI\obj\Debug\netcoreapp5.0\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
+D:\Final Project\ReactJsCoreApi\WebAPI\WebAPI\obj\Debug\netcoreapp5.0\staticwebassets\WebAPI.StaticWebAssets.xml
+D:\Final Project\ReactJsCoreApi\WebAPI\WebAPI\obj\Debug\netcoreapp5.0\scopedcss\bundle\WebAPI.styles.css
+D:\Final Project\ReactJsCoreApi\WebAPI\WebAPI\obj\Debug\netcoreapp5.0\WebAPI.RazorTargetAssemblyInfo.cache
+D:\Final Project\ReactJsCoreApi\WebAPI\WebAPI\obj\Debug\netcoreapp5.0\WebAPI.dll
+D:\Final Project\ReactJsCoreApi\WebAPI\WebAPI\obj\Debug\netcoreapp5.0\ref\WebAPI.dll
+D:\Final Project\ReactJsCoreApi\WebAPI\WebAPI\obj\Debug\netcoreapp5.0\WebAPI.pdb
+D:\Final Project\ReactJsCoreApi\WebAPI\WebAPI\obj\Debug\netcoreapp5.0\WebAPI.genruntimeconfig.cache
